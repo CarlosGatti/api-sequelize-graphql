@@ -1,1 +1,1 @@
-# api-sequelize-graphql
+api-sequelize-graphql
